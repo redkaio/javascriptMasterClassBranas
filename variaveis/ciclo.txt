@@ -1,0 +1,29 @@
+Ciclo de vida das variáveis:
+  - Declaração: quando o nome é registrado (contexto de execução)
+  - Inicialização: a variável é inicializada com undefined
+  - Atribuição: Um valor é atribuído para a variável
+
+Var:
+   - Declarada e inicializada no escopo da função
+   - Não respeita blocos
+   - Permite redeclaração e reatribuição
+
+
+Let:
+   - Declarada no escopo da função
+   - Inicializada posteriormente
+   - Respeita blocos
+   - Permite reatribuição, mas não redeclaração
+
+
+Const:
+   - Declarada no escopo da função
+   - Inicializada posteriormente
+   - Respeita blocos
+   - Não permite reatribuição nem redeclaração
+
+
+É possível declarar uma variável sem usar var, let ou const
+
+Regra para declaração de variáveis:
+Começar com [a-zA-Z_$] seguido por [a-zA-Z0-9_$]

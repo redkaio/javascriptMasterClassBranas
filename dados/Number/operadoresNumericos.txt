@@ -1,0 +1,4 @@
+- Operadores aritméticos: +, -, *, /, e %
+- Operadores de atribuição: +=, -=, *=, /= e %=
+- Operadores de incremento e decremento: ++ e --
+- Operadores binários: |, &, ^, ~, <<, >>, e >>>

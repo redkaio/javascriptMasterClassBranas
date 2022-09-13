@@ -1,0 +1,17 @@
+- Number é um tipo de dado primitivo.
+- Representado internamente pelo padrão IEEE 754 de 64 bits (isso é importante quando o número for armazenado em memória).
+- Suporta os sistemas de operação:
+   - Decimal
+     - Base 10: números de 0 a 9.
+     - Apesar de contemplar o 0, devemos iniciar os números a partir do 1.
+     - Pode ou não ter ponto.
+   - Hexadecimal
+     - Base 16: de 0 a 9 e de A a F.
+     - Deve ser iniciado com 0x ou 0X, seguido por números de 0 a 9 e letras de A a F.
+   - Binário
+     - Base 2: 0 ou 1.
+     - Deve ser iniciado com  0b ou 0B, seguidos de número 0 ou 1.
+   - Octal
+     - Base 8: vai de 0 a 7.
+     - Deve ser iniciado com 0, 0o ou 0O, seguidos de números de 0 a 7.
+     - 

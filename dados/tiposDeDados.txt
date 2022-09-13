@@ -1,0 +1,20 @@
+Dados podem ser de dois tipos: primitivos e objetos.
+
+  - Primitivos: são imutáveis.
+  - Há 6 tipos primitivos:
+     - Number
+     - String
+     - Boolean
+     - Symbol
+     - Null
+     - Undefined
+
+  - Objetos: valores que representam uma referência em *memória* que pode ser alterada.
+  - Alguns tipos de dados objetos:
+     - Function
+     - Objeto
+     - Array (nota: a instância é de array, mas o tipo é objeto)
+     - Expressão regular (nota: a instância é de regex, mas o tipo é objeto)
+
+     
+
