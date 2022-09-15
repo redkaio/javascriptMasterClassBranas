@@ -1,0 +1,20 @@
+- Math é um objeto global que contém constantes matemáticas e métodos para a realização de operações envolvendo números.
+- Operações do Math API:
+  - abs (absolute): converte o sinal do número para positivo.
+  - ceil: arredonda o número para cima.
+  - floor: arredonda o número para baixo.
+  - round: arredonda o número para cima se a parte decimal for entre 5 e 9 e arredonda para baixo se for de 0 a 4.
+  - sign: retorna 1 se o número for positivo e -1 se for negativo.
+  - trunc: elimina parte decimal do número, tornando-o um inteiro.
+  - cbrt: retorna a raíz cúbica do número.
+  - cos: retorna o coseno de um ângulo.
+  - exp: retorna E elevado a um expoente.
+  - hypot: retorna a raiz quadrada dos quadrados dos números.
+  - log: retorna o logaritmo de número em base natural.
+  - pow: retorna o número elevado a um determinado expoente.
+  - sin: retorna o seno de um ângulo.
+  - sqrt: retorna a raiz quadrada de um número.
+  - tan: retorna a tangente de um ângulo.
+  - min: retorna o menor número passado por um parâmetro.
+  - max: retorna o maior número passado por um parâmetro.
+  - random: retorna um número randömico entre 0 e 1, não incluindo o 1.
