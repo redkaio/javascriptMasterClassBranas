@@ -72,7 +72,30 @@
 // console.log(parseInt("11", 2));
 // console.log(parseInt("010", 8));
 
-console.log(parseFloat("10"));
-console.log(parseFloat("2.5"));
-console.log(parseFloat("0xFF"));
-console.log(parseFloat("0b10"));
+// console.log(parseFloat("10"));
+// console.log(parseFloat("2.5"));
+// console.log(parseFloat("0xFF"));
+// console.log(parseFloat("0b10"));
+
+// Exemplos de arredondamento com resíduos
+
+// console.log(0.1 + 0.2);
+// console.log(666.7 - 666.6);
+// console.log(33.3 * 3);
+// console.log(12.2 / 0.1);
+
+// Infinito
+
+// console.log(Math.pow(10, 1000));
+// console.log(1/0);
+// console.log(Number.MAX_VALUE * 2);
+// console.log(Math.log(0));
+// console.log(-Number.MAX_VALUE * 2);
+
+// NaN
+
+// console.log(10 * "JavaScript");
+// console.log(0/0);
+// console.log(Math.sqrt(-9));
+// console.log(Math.log(-1));
+// console.log(parseFloat("JavaScript"));

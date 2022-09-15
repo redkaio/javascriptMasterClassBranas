@@ -1,0 +1,9 @@
+- O IEE754 é um padrão de representação numérica criado em 1985 e adotado por diversas linguagens de programação como JS, Ruby, Pyhton e Java.
+- Números, no JavaScript, são armazenadas em 64 bits.
+  - 1 bit para o sinal.
+  - 11 bits para o expoente.
+  - 52 bits que são a fração ou mantissa, que expressam o número em si.
+- Ao realizar operações com números decimais, podem existir resíduos decorrentes de arredondamentos.
+- Infinito, que pode ser negativo ou positivo, é retornado quando uma operação ultrapassa os limites do tipo number.
+- NaN ou Not a Number é retornado quando realizamos uma operação numérica onde não é possível determinar o resultado.
+  - Um ponto importante é que o NaN não interrompe o fluxo, ele se acumula.
