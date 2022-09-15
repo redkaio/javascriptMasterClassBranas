@@ -1,0 +1,4 @@
+- Convertemos utilzando a função construtora Number.
+- Também é possível converter String para Number com operadores numéricos.
+- Não sendo o bastante, é possível converter o número utilizando o toString().
+- Para a surpresa das pessoas, também é possível converter utilizando parseInt() e parseFloat().

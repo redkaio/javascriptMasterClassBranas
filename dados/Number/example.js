@@ -49,3 +49,30 @@
 // console.log(4 << 2);
 // console.log(128 >> 1);
 // console.log(-2 >>> 1);
+
+
+// Conversão Numérica
+
+// console.log(Number("10"));
+// console.log(Number("9.9"));
+// console.log(Number("0xFF"));
+// console.log(Number("0b10"));
+// console.log(Number("0o10"));
+// console.log(Number());
+// console.log(Number("JavaScript"));
+
+// console.log((0xA).toString(10));
+// console.log((0b1010).toString(16));
+// console.log((010).toString(2));
+// console.log((10).toString(8));
+
+// console.log(parseInt("10", 10));
+// console.log(parseInt("9.9", 10));
+// console.log(parseInt("A", 16));
+// console.log(parseInt("11", 2));
+// console.log(parseInt("010", 8));
+
+console.log(parseFloat("10"));
+console.log(parseFloat("2.5"));
+console.log(parseFloat("0xFF"));
+console.log(parseFloat("0b10"));
