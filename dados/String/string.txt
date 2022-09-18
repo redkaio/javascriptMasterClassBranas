@@ -1,0 +1,21 @@
+- String é primitivo, imutável, e é representado internamente pelo padrão Unicode, codificado em UTF-16 (cada string ocupa 16 bits).
+- Existem 3 formas de declarar uma string de forma literal:
+  - Aspas simples - ''
+  - Aspas duplas - ""
+  - Template literal - ``
+- Também é possível declarar uma String por meio de uma função construtora.
+  - Pensando em performance, utilizar uma função construtora é mais lenta.
+- Existem caracteres que não são permitidos na String e precisam ser escapados.
+  - Para escapar esses caracteres, é necessário utilizar \ para realizar o escape.
+- Existem também caracteres de controle, para quebrar linhas ou identar código, por exemplo.
+- São eles:
+  - \b: Backspace.
+  - \f: Form Feed.
+  - \n: New Line
+  - \r: Carriege Return
+  - \t: Horizontal Tabulator
+  - \v: Vertical Tabulator
+- Também é possível escrever caracteres utilizando seu code point no padrão Unicode.
+
+
+  
